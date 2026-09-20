@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rohit Vijay Shukla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 📫 How to reach me **rohitvijayshukla265@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitvijayshukla265/rohitvijayshukla265/fc36da092125c2cf8ae2ff71e0669d7a45149174/github1.png" alt="Rohit Vijay Shukla">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
